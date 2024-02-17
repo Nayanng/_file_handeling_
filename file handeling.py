@@ -46,4 +46,4 @@ while(True):
         case 5:
             print("Rename")
         case 6:
-            print("Stop the program"
+            print("Stop the program")
